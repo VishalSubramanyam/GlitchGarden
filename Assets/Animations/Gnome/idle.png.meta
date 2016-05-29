@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bb6cf1fcf9ebe48b8a36cc3da0ba6f2b
+guid: 557ad65b7a9aa72438f1daa6460dd323
 TextureImporter:
   fileIDToRecycleName:
     21300000: npc_garden_gnome__x1_idleBlink_png_1354832661_0
@@ -65,7 +65,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2.5, y: 56}
+        - {x: -40.5, y: 5}
+        - {x: -40.5, y: -75}
+        - {x: 40.5, y: -75}
+        - {x: 40.5, y: -7}
+        - {x: 21.5, y: 56}
     - name: npc_garden_gnome__x1_idleBlink_png_1354832661_1
       rect:
         serializedVersion: 2
@@ -76,7 +82,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2.5, y: 56}
+        - {x: -40.5, y: 5}
+        - {x: -40.5, y: -75}
+        - {x: 40.5, y: -75}
+        - {x: 40.5, y: -7}
+        - {x: 21.5, y: 56}
     - name: npc_garden_gnome__x1_idleBlink_png_1354832661_2
       rect:
         serializedVersion: 2
@@ -87,7 +99,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2.5, y: 56}
+        - {x: -40.5, y: 5}
+        - {x: -40.5, y: -75}
+        - {x: 40.5, y: -75}
+        - {x: 40.5, y: -7}
+        - {x: 21.5, y: 56}
     - name: npc_garden_gnome__x1_idleBlink_png_1354832661_3
       rect:
         serializedVersion: 2
@@ -98,7 +116,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2.5, y: 56}
+        - {x: -40.5, y: 5}
+        - {x: -40.5, y: -75}
+        - {x: 40.5, y: -75}
+        - {x: 40.5, y: -7}
+        - {x: 21.5, y: 56}
     - name: npc_garden_gnome__x1_idleBlink_png_1354832661_4
       rect:
         serializedVersion: 2
@@ -109,7 +133,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2.5, y: 56}
+        - {x: -40.5, y: 5}
+        - {x: -40.5, y: -75}
+        - {x: 40.5, y: -75}
+        - {x: 40.5, y: -7}
+        - {x: 21.5, y: 56}
     - name: npc_garden_gnome__x1_idleBlink_png_1354832661_5
       rect:
         serializedVersion: 2
@@ -120,7 +150,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2.5, y: 56}
+        - {x: -40.5, y: 5}
+        - {x: -40.5, y: -75}
+        - {x: 40.5, y: -75}
+        - {x: 40.5, y: -7}
+        - {x: 21.5, y: 56}
     - name: npc_garden_gnome__x1_idleBlink_png_1354832661_6
       rect:
         serializedVersion: 2
@@ -131,7 +167,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2.5, y: 56}
+        - {x: -40.5, y: 5}
+        - {x: -40.5, y: -75}
+        - {x: 40.5, y: -75}
+        - {x: 40.5, y: -7}
+        - {x: 21.5, y: 56}
     outline: []
   spritePackingTag: 
   userData: 

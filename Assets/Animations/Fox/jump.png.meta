@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7e71a3b143caf496699a26c543408179
+guid: a0ee259feb24947469705c60a2dcd7a5
 TextureImporter:
   fileIDToRecycleName:
     21300000: npc_fox_fox_orangeFox_x1_jump_png_1354839594_0
@@ -86,7 +86,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 32.5, y: -36.5}
+        - {x: 31.5, y: -38.5}
+        - {x: 31.5, y: -39.5}
+        - {x: 34.5, y: -42.5}
+        - {x: 46.5, y: -45.5}
+        - {x: 56.5, y: -38.5}
+        - {x: 56.5, y: -23.5}
+        - {x: 46.5, y: -12.5}
+        - {x: 38.5, y: -12.5}
+        - {x: 23.5, y: -14.5}
+        - {x: -51.5, y: -14.5}
+        - {x: -64.5, y: -21.5}
+        - {x: -65.5, y: -22.5}
+        - {x: -65.5, y: -32.5}
+        - {x: -63.5, y: -40.5}
+        - {x: -39.5, y: -61.5}
+        - {x: 34.5, y: -61.5}
+        - {x: 35.5, y: -48.5}
+        - {x: 28.5, y: -40.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_1
       rect:
         serializedVersion: 2
@@ -97,7 +116,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -59.5, y: -6.5}
+        - {x: -59.5, y: -41.5}
+        - {x: -54.5, y: -60.5}
+        - {x: 42.5, y: -60.5}
+        - {x: 58.5, y: -38.5}
+        - {x: 58.5, y: -24.5}
+        - {x: 48.5, y: -6.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_2
       rect:
         serializedVersion: 2
@@ -108,7 +134,23 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 38.5, y: -17.5}
+        - {x: 17.5, y: 4.5}
+        - {x: -6.5, y: 29.5}
+        - {x: -27.5, y: 32.5}
+        - {x: -39.5, y: 32.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -41.5, y: 17.5}
+        - {x: -21.5, y: -27.5}
+        - {x: -15.5, y: -24.5}
+        - {x: -12.5, y: -21.5}
+        - {x: -17.5, y: -31.5}
+        - {x: -10.5, y: -59.5}
+        - {x: 43.5, y: -59.5}
+        - {x: 54.5, y: -55.5}
+        - {x: 54.5, y: -23.5}
+        - {x: 53.5, y: -21.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_3
       rect:
         serializedVersion: 2
@@ -119,7 +161,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -47.5, y: 39.5}
+        - {x: -47.5, y: 14.5}
+        - {x: 0.5, y: -39.5}
+        - {x: 51.5, y: -39.5}
+        - {x: 51.5, y: -1.5}
+        - {x: 5.5, y: 39.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_4
       rect:
         serializedVersion: 2
@@ -130,7 +178,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5.5, y: 50.5}
+        - {x: -52.5, y: 50.5}
+        - {x: -52.5, y: 18.5}
+        - {x: -0.5, y: -25.5}
+        - {x: 48.5, y: -25.5}
+        - {x: 48.5, y: 13.5}
+        - {x: 15.5, y: 46.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_5
       rect:
         serializedVersion: 2
@@ -141,7 +196,15 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -53.5, y: 61.5}
+        - {x: -56.5, y: 55.5}
+        - {x: -56.5, y: 34.5}
+        - {x: 4.5, y: -15.5}
+        - {x: 39.5, y: -15.5}
+        - {x: 46.5, y: -11.5}
+        - {x: 46.5, y: 36.5}
+        - {x: 6.5, y: 61.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_6
       rect:
         serializedVersion: 2
@@ -152,7 +215,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -51.5, y: 65.5}
+        - {x: -57.5, y: 60.5}
+        - {x: -57.5, y: 31.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 50.5, y: -8.5}
+        - {x: 50.5, y: 42.5}
+        - {x: 1.5, y: 65.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_7
       rect:
         serializedVersion: 2
@@ -163,7 +233,23 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -36.5, y: 69.5}
+        - {x: -56.5, y: 49.5}
+        - {x: -56.5, y: 29.5}
+        - {x: -5.5, y: 7.5}
+        - {x: 9.5, y: 16.5}
+        - {x: 27.5, y: 18.5}
+        - {x: 28.5, y: 18.5}
+        - {x: 27.5, y: 18.5}
+        - {x: 23.5, y: 17.5}
+        - {x: 28.5, y: 2.5}
+        - {x: 32.5, y: 0.5}
+        - {x: 46.5, y: 0.5}
+        - {x: 54.5, y: 9.5}
+        - {x: 54.5, y: 29.5}
+        - {x: 45.5, y: 35.5}
+        - {x: -2.5, y: 69.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_8
       rect:
         serializedVersion: 2
@@ -174,7 +260,22 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -45.5, y: 69.5}
+        - {x: -55.5, y: 52.5}
+        - {x: -55.5, y: 29.5}
+        - {x: -6.5, y: 11.5}
+        - {x: 19.5, y: 20.5}
+        - {x: 24.5, y: 26.5}
+        - {x: 29.5, y: 25.5}
+        - {x: 28.5, y: 26.5}
+        - {x: 28.5, y: 22.5}
+        - {x: 25.5, y: 15.5}
+        - {x: 35.5, y: 10.5}
+        - {x: 56.5, y: 10.5}
+        - {x: 57.5, y: 11.5}
+        - {x: 57.5, y: 54.5}
+        - {x: 3.5, y: 69.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_9
       rect:
         serializedVersion: 2
@@ -185,7 +286,16 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -28.5, y: 69.5}
+        - {x: -55.5, y: 57.5}
+        - {x: -56.5, y: 55.5}
+        - {x: -56.5, y: 22.5}
+        - {x: -16.5, y: 10.5}
+        - {x: 55.5, y: 10.5}
+        - {x: 57.5, y: 12.5}
+        - {x: 57.5, y: 43.5}
+        - {x: 13.5, y: 69.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_10
       rect:
         serializedVersion: 2
@@ -196,7 +306,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -31.5, y: 61.5}
+        - {x: -39.5, y: 56.5}
+        - {x: -57.5, y: 35.5}
+        - {x: -57.5, y: 13.5}
+        - {x: 57.5, y: 13.5}
+        - {x: 57.5, y: 51.5}
+        - {x: 31.5, y: 61.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_11
       rect:
         serializedVersion: 2
@@ -207,7 +324,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -35.5, y: 54.5}
+        - {x: -59.5, y: 33.5}
+        - {x: -59.5, y: 5.5}
+        - {x: 55.5, y: 5.5}
+        - {x: 55.5, y: 47.5}
+        - {x: 45.5, y: 54.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_12
       rect:
         serializedVersion: 2
@@ -218,7 +341,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5.5, y: 51.5}
+        - {x: -45.5, y: 42.5}
+        - {x: -62.5, y: 16.5}
+        - {x: -62.5, y: 8.5}
+        - {x: -58.5, y: 2.5}
+        - {x: -31.5, y: -5.5}
+        - {x: -26.5, y: -5.5}
+        - {x: -20.5, y: -1.5}
+        - {x: -29.5, y: -10.5}
+        - {x: 7.5, y: -10.5}
+        - {x: 48.5, y: 20.5}
+        - {x: 48.5, y: 51.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_13
       rect:
         serializedVersion: 2
@@ -229,7 +364,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9.5, y: 48.5}
+        - {x: -65.5, y: 2.5}
+        - {x: -65.5, y: -11.5}
+        - {x: -41.5, y: -33.5}
+        - {x: 7.5, y: -33.5}
+        - {x: 38.5, y: 10.5}
+        - {x: 38.5, y: 48.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_14
       rect:
         serializedVersion: 2
@@ -240,7 +382,20 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 16.5, y: 37.5}
+        - {x: -33.5, y: 37.5}
+        - {x: -67.5, y: -11.5}
+        - {x: -67.5, y: -48.5}
+        - {x: -41.5, y: -58.5}
+        - {x: -36.5, y: -56.5}
+        - {x: -30.5, y: -50.5}
+        - {x: -26.5, y: -59.5}
+        - {x: -23.5, y: -60.5}
+        - {x: -13.5, y: -60.5}
+        - {x: -3.5, y: -55.5}
+        - {x: 23.5, y: -11.5}
+        - {x: 23.5, y: 35.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_15
       rect:
         serializedVersion: 2
@@ -251,7 +406,20 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 31.5, y: 4.5}
+        - {x: 33.5, y: 6.5}
+        - {x: 33.5, y: 22.5}
+        - {x: 24.5, y: 27.5}
+        - {x: -4.5, y: 27.5}
+        - {x: -68.5, y: -17.5}
+        - {x: -68.5, y: -47.5}
+        - {x: -44.5, y: -61.5}
+        - {x: -6.5, y: -61.5}
+        - {x: 14.5, y: -43.5}
+        - {x: 31.5, y: -15.5}
+        - {x: 24.5, y: -9.5}
+        - {x: 21.5, y: -6.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_16
       rect:
         serializedVersion: 2
@@ -262,7 +430,23 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 19.5, y: -23.5}
+        - {x: 40.5, y: -7.5}
+        - {x: 42.5, y: -0.5}
+        - {x: 42.5, y: 6.5}
+        - {x: 37.5, y: 16.5}
+        - {x: 29.5, y: 17.5}
+        - {x: 10.5, y: 17.5}
+        - {x: -55.5, y: -14.5}
+        - {x: -68.5, y: -37.5}
+        - {x: -68.5, y: -49.5}
+        - {x: -58.5, y: -52.5}
+        - {x: -29.5, y: -61.5}
+        - {x: 9.5, y: -61.5}
+        - {x: 21.5, y: -60.5}
+        - {x: 28.5, y: -41.5}
+        - {x: 26.5, y: -29.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_17
       rect:
         serializedVersion: 2
@@ -273,7 +457,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -49.5, y: -26.5}
+        - {x: -67.5, y: -32.5}
+        - {x: -67.5, y: -61.5}
+        - {x: 51.5, y: -61.5}
+        - {x: 54.5, y: -57.5}
+        - {x: 54.5, y: -26.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_18
       rect:
         serializedVersion: 2
@@ -284,7 +474,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -67.5, y: -69.5}
+        - {x: 50.5, y: -69.5}
+        - {x: 50.5, y: -32.5}
+        - {x: -11.5, y: -28.5}
+        - {x: -44.5, y: -28.5}
+        - {x: -67.5, y: -48.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_19
       rect:
         serializedVersion: 2
@@ -295,7 +491,16 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 18.5, y: -27.5}
+        - {x: -33.5, y: -27.5}
+        - {x: -50.5, y: -31.5}
+        - {x: -66.5, y: -54.5}
+        - {x: -66.5, y: -66.5}
+        - {x: -65.5, y: -68.5}
+        - {x: 51.5, y: -68.5}
+        - {x: 51.5, y: -41.5}
+        - {x: 36.5, y: -29.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_20
       rect:
         serializedVersion: 2
@@ -306,7 +511,16 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -38.5, y: -26.5}
+        - {x: -51.5, y: -32.5}
+        - {x: -67.5, y: -55.5}
+        - {x: -67.5, y: -61.5}
+        - {x: -65.5, y: -63.5}
+        - {x: 48.5, y: -63.5}
+        - {x: 54.5, y: -57.5}
+        - {x: 54.5, y: -32.5}
+        - {x: 49.5, y: -26.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_21
       rect:
         serializedVersion: 2
@@ -317,7 +531,12 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -55.5, y: -19.5}
+        - {x: -67.5, y: -42.5}
+        - {x: -67.5, y: -61.5}
+        - {x: 56.5, y: -61.5}
+        - {x: 56.5, y: -19.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_22
       rect:
         serializedVersion: 2
@@ -328,7 +547,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -3.5, y: -12.5}
+        - {x: -61.5, y: -22.5}
+        - {x: -68.5, y: -30.5}
+        - {x: -68.5, y: -50.5}
+        - {x: -63.5, y: -60.5}
+        - {x: -56.5, y: -61.5}
+        - {x: 38.5, y: -61.5}
+        - {x: 56.5, y: -39.5}
+        - {x: 56.5, y: -13.5}
+        - {x: 55.5, y: -12.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_23
       rect:
         serializedVersion: 2
@@ -339,7 +568,16 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 23.5, y: -8.5}
+        - {x: -53.5, y: -17.5}
+        - {x: -68.5, y: -36.5}
+        - {x: -68.5, y: -46.5}
+        - {x: -39.5, y: -61.5}
+        - {x: 43.5, y: -61.5}
+        - {x: 55.5, y: -54.5}
+        - {x: 55.5, y: -11.5}
+        - {x: 54.5, y: -8.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_24
       rect:
         serializedVersion: 2
@@ -350,7 +588,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -19.5, y: -9.5}
+        - {x: -68.5, y: -23.5}
+        - {x: -68.5, y: -48.5}
+        - {x: -63.5, y: -54.5}
+        - {x: -38.5, y: -61.5}
+        - {x: 15.5, y: -61.5}
+        - {x: 31.5, y: -59.5}
+        - {x: 56.5, y: -43.5}
+        - {x: 56.5, y: -20.5}
+        - {x: 49.5, y: -9.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_25
       rect:
         serializedVersion: 2
@@ -361,7 +609,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -48.5, y: -10.5}
+        - {x: -68.5, y: -25.5}
+        - {x: -68.5, y: -45.5}
+        - {x: -52.5, y: -61.5}
+        - {x: 38.5, y: -61.5}
+        - {x: 55.5, y: -53.5}
+        - {x: 55.5, y: -10.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_26
       rect:
         serializedVersion: 2
@@ -372,7 +627,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 43.5, y: -11.5}
+        - {x: 4.5, y: -11.5}
+        - {x: -46.5, y: -15.5}
+        - {x: -68.5, y: -31.5}
+        - {x: -68.5, y: -44.5}
+        - {x: -66.5, y: -47.5}
+        - {x: -43.5, y: -61.5}
+        - {x: 33.5, y: -61.5}
+        - {x: 50.5, y: -47.5}
+        - {x: 56.5, y: -35.5}
+        - {x: 56.5, y: -21.5}
     - name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_27
       rect:
         serializedVersion: 2
@@ -383,7 +649,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 32.5, y: -36.5}
+        - {x: 31.5, y: -38.5}
+        - {x: 31.5, y: -39.5}
+        - {x: 34.5, y: -42.5}
+        - {x: 46.5, y: -45.5}
+        - {x: 56.5, y: -38.5}
+        - {x: 56.5, y: -23.5}
+        - {x: 46.5, y: -12.5}
+        - {x: 38.5, y: -12.5}
+        - {x: 23.5, y: -14.5}
+        - {x: 5.5, y: -12.5}
+        - {x: -44.5, y: -12.5}
+        - {x: -68.5, y: -34.5}
+        - {x: -68.5, y: -48.5}
+        - {x: -45.5, y: -61.5}
+        - {x: 28.5, y: -61.5}
+        - {x: 32.5, y: -60.5}
+        - {x: 35.5, y: -48.5}
+        - {x: 28.5, y: -40.5}
     outline: []
   spritePackingTag: 
   userData: 
