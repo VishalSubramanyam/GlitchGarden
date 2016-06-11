@@ -1,6 +1,8 @@
 Temp/UnityLockfile
 obj
 ProjectSettings
+Library/*
 Library
 Temp
+Temp/*
 build
